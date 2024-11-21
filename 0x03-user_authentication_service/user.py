@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""_SQLAlchemy for user model to store user data with attributes._
+"""_summary_
 """
 
 
@@ -9,7 +9,7 @@ Base = declarative_base()
 
 
 class User(Base):
-    """_User model that inherits the declarative base and stores user data._
+    """_summary_
 
     Args:
         Base (_type_): _description_
